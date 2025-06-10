@@ -56,7 +56,7 @@ This interactive dashboard provides an analytical overview of **global cyber att
 ---
 
 ##  Key Insights:
-- **Nation-state and hacker group attacks** accounted for **over 50%** of all financial losses.
+- **Nation-state and unknown attacks** accounted for **over 50%** of all financial losses.
 - **Social engineering** was the most common vulnerability exploited, followed by **unpatched software** and **weak passwords**.
 - Attack types like **DDoS** and **Phishing** had the **highest financial impact** and resolution times.
 - Despite the losses, **Antivirus** remains the most frequently used defense mechanism.
