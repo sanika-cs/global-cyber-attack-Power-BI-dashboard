@@ -1,12 +1,12 @@
 # global-cyber-attack-Power-BI-dashboard
 
-# 🌐 Global Cyber Attack Dashboard
+#  Global Cyber Attack Dashboard
 
 This interactive dashboard provides an analytical overview of **global cyber attacks**, offering insights into **user impact, financial losses**, **attack types**, **industries targeted**, and **attack sources**. The visualizations help identify patterns in cyber threats to support cybersecurity preparedness and response planning.
 
 ---
 
-## 📊 Key Highlights:
+##  Key Highlights:
 - **Total Affected Users:** **200M**
 - **Total Financial Loss:** **$15.4K**
 - **Most Targeted Industry:** **IT (250M users)**
@@ -16,19 +16,19 @@ This interactive dashboard provides an analytical overview of **global cyber att
 
 ---
 
-## 📅 Financial Loss Trend by Year:
+##  Financial Loss Trend by Year:
 - Financial losses fluctuated between **2015 and 2024**, peaking around **2018**.
 - Noticeable increase post-2020, stabilizing around **$16K**.
 
 ---
 
-## 🌍 Affected Users by Region:
+##  Affected Users by Region:
 - Largest user impact observed in **Asia, North America, and South America**, as shown on the heatmap.
 - Other regions like **Europe** and **Australia** also show significant exposure.
 
 ---
 
-## 🏭 Affected Users by Industry:
+##  Affected Users by Industry:
 | Industry         | Affected Users |
 |------------------|----------------|
 | IT               | 250M           |
@@ -41,7 +41,7 @@ This interactive dashboard provides an analytical overview of **global cyber att
 
 ---
 
-## 🎯 Financial Loss by Attack Source:
+##  Financial Loss by Attack Source:
 - **Nation-State Attacks**: 26.36%
 - **Hacker Groups**: 25.33%
 - **Insider Threats**: 24.98%
@@ -49,14 +49,14 @@ This interactive dashboard provides an analytical overview of **global cyber att
 
 ---
 
-## 🛠 Tools & Technologies Used:
+##  Tools & Technologies Used:
 - **Dashboard Creation**: Power BI
 - **Data Processing**: Python & Excel
 - **Visualization Techniques**: Bar charts, line graphs, donut charts, maps
 
 ---
 
-## 💡 Key Insights:
+##  Key Insights:
 - **Nation-state and hacker group attacks** accounted for **over 50%** of all financial losses.
 - **Social engineering** was the most common vulnerability exploited, followed by **unpatched software** and **weak passwords**.
 - Attack types like **DDoS** and **Phishing** had the **highest financial impact** and resolution times.
