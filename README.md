@@ -43,9 +43,9 @@ This interactive dashboard provides an analytical overview of **global cyber att
 
 ##  Financial Loss by Attack Source:
 - **Nation-State Attacks**: 26.36%
-- **Hacker Groups**: 25.33%
+- **Unknown Sources**: 25.33%
 - **Insider Threats**: 24.98%
-- **Unknown Sources**: 23.33%
+- **Hacker Groups**: 23.33%
 
 ---
 
