@@ -51,8 +51,7 @@ This interactive dashboard provides an analytical overview of **global cyber att
 
 ##  Tools & Technologies Used:
 - **Dashboard Creation**: Power BI
-- **Data Processing**: Python & Excel
-- **Visualization Techniques**: Bar charts, line graphs, donut charts, maps
+- **Visualization Techniques**: Line and stacked column charts, line graphs, donut charts, maps , funnel ,slicer
 
 ---
 
